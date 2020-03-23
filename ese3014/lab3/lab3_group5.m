@@ -20,3 +20,4 @@ d2=sum(d1,2)
 %m=8;
 %ri=s1.*linercv
 %decode=ri/8
+%
